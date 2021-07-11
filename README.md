@@ -4,7 +4,7 @@ Steps to Run application:
 
 BACKEND(SPRING BOOT APPLICATION):
 
-1.Clone the Repository.
+1. Clone the Repository.
 2. Open UserDetailsApplication/backendApp/user-detail-app/ pom.xml file in STS.
 3. Run the Application as SpringBootApplication from IDE.
 4. The Apllication Uses H2 databse : " http://localhost:8080/h2-console/   " ; Login with JDBS URL : "jdbc:h2:mem:user_detail".
