@@ -59,7 +59,7 @@ public class UserDetailController {
 	}
 
     /*
-     * This method User-Details(Address) updated Rest API
+     * This method updated Rest API
      */
 	@PostMapping(path = "/userDetailsUpdate")
 	public ResponseEntity<UserDetail> updateUserDetils(@RequestBody UserDetail userDetail ) {
