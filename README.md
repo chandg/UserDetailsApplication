@@ -10,11 +10,13 @@ BACKEND(SPRING BOOT APPLICATION):
 4. The Apllication Uses H2 databse : " http://localhost:8080/h2-console/   " ; Login with JDBS URL : "jdbc:h2:mem:user_detail".
 
 
+
 FRONTEND(ANGULAR 10 CLIENT):
 
 1. Clone the repository
 2. open "UserDetailsApplication/Client/user-details-client-app/" in an IDE.
 3. Run ng serve.
+4. Open Application On Browser @:  http://localhost:4200/
 
 
 Please refer Demo video for application Flow.
