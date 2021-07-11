@@ -16,7 +16,9 @@ FRONTEND(ANGULAR 10 CLIENT):
 1. Clone the repository
 2. open "UserDetailsApplication/Client/user-details-client-app/" in an IDE.
 3. Run ng serve.
-4. Open Application On Browser @:  http://localhost:4200/
+4. ERROR IN STARTING :IF getting  "An unhandled exception occurred: Cannot find module '@angular-devkit/build-angular/package.json'"
+           RUN :  npm install --save-dev @angular-devkit/build-angular
+5. Open Application On Browser @:  http://localhost:4200/
 
 
 Please refer Demo video for application Flow.
